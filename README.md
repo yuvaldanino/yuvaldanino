@@ -1,6 +1,6 @@
 ### Yuval Danino 
 
-- 👨🏻‍💻 Heavily interested in software engineering 
+- 👨🏻‍💻 Software engineering 
 - 🏫 Bachelors in Computer Science at [University of California Davis](https://www.ucdavis.edu/)
 - 🤹🏼‍♂️ Applications and Software Engineer at KLA
 - 📍 Silicon Valley 94087
