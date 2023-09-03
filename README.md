@@ -1,4 +1,11 @@
-### Hi there 👋
+### Yuval Danino 
+
+- 👨🏻‍💻 Heavily interested in software engineering 
+- 🏫 Bachelors in Computer Science at [University of California Davis]([https://www.sjsu.edu/ (https://www.ucdavis.edu/))
+- 🤹🏼‍♂️ Applications and Software Engineer at KLA
+- 📍 Silicon Valley 94087
+- 🔭 Big interest in Machine leanirng 
+
 
 <!--
 **yuvaldanino/yuvaldanino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
