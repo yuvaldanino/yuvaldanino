@@ -2,7 +2,6 @@
 
 - 👨🏻‍💻 Software engineering 
 - 🏫 Bachelors in Computer Science at [University of California Davis](https://www.ucdavis.edu/)
-- 🤹🏼‍♂️ Applications and Software Engineer at KLA
 - 📍 Silicon Valley 94087
 - 🔭 Big interest in Machine leanirng 
 
