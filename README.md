@@ -3,9 +3,8 @@ Hey! I’m Yuval Danino, a Software & ML Engineer who loves building smart syste
 My work spans machine learning, backend engineering, and AI optimization. I’ve built LLM inference platforms, predictive analytics tools, and real-time recommendation engines using tools like Python, Django, TensorFlow, PostgreSQL, and TVM—deploying both to cloud (AWS, Docker) and on-prem environments.
 
 🚀 Recent Highlights
--  LLM Inference API – Boosted performance for large language models using TVM, XLA, and ONNX
-- MapConnect WebApp – A full-stack, map-driven platform for posting and tracking local activity
-- 
+-  Local LLM Inference API – Replaces OpenAI-style cloud costs with a plug-and-play, backend-optimized API using vLLM, TVM, ONNX, and XLA.
+  
 I love messing with new tools, solving hard problems, and collaborating on projects that actually do something cool. Always down to talk backend, ML, or whatever’s next in AI.
 
 ## 🌐 Socials:
