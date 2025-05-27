@@ -1,9 +1,8 @@
 # 💫 About Me:
-Hey! I’m Yuval Danino, a Software & ML Engineer who loves building smart systems that make life easier—whether that’s streamlining infrastructure, optimizing models, or crafting reliable backend services.
-My work spans machine learning, backend engineering, and AI optimization. I’ve built LLM inference platforms, predictive analytics tools, and real-time recommendation engines using tools like Python, Django, TensorFlow, PostgreSQL, and TVM—deploying both to cloud (AWS, Docker) and on-prem environments.
+I’m a Software Engineer who combines AI, backend, and product thinking to build smart, scalable, and helpful systems. I love working across the stack and always keep my focus on solving real-world problems with meaningful impact.
 
 🚀 Recent Highlights
--  Local LLM Inference API – Replaces OpenAI-style cloud costs with a plug-and-play, backend-optimized API using vLLM, TVM, ONNX, and XLA.
+-  ChefGPT: AI-powered Recipe Creator
   
 I love messing with new tools, solving hard problems, and collaborating on projects that actually do something cool. Always down to talk backend, ML, or whatever’s next in AI.
 
