@@ -4,6 +4,11 @@ I’m a Software Engineer who combines AI, backend, and product thinking to buil
 🚀 Recent Highlights
 -  ChefGPT: AI-powered Recipe Creator
 -  http://chefgpt-alb-1911712359.us-east-1.elb.amazonaws.com/home/
+
+Currently Working On:
+- RAG eval tooling (chunker eval, embedder eval, prompt eval, memory eval)
+- custom BERT embedding model eval platform
+- Kubeflow pipeline to fine-tune BERT embeddings for better text understanding based on company-specific content.
   
 I love messing with new tools, solving hard problems, and collaborating on projects that actually do something cool. Always down to talk backend, ML, or whatever’s next in AI.
 
